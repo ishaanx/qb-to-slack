@@ -1,2 +1,2 @@
 # qb-to-slack
-Send completion status to slack
+Send download completion status to slack
